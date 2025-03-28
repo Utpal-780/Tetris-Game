@@ -49,8 +49,6 @@ The game stores the highest score in a file named HighScore.txt. The highest sco
 
 Feel free to fork this repository and enhance the game! You can improve features like:
 
-
-- Adding new levels or obstacles
   
 - Implementing a better UI/UX
   
